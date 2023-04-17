@@ -8,3 +8,5 @@ The parkinson's data was in a nii.gz file format, from which we've manually extr
 - Brain tumor - https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection.
 - Parkinson's - https://openneuro.org/datasets/ds001907/versions/3.0.1/download.
 
+Libraries used - Tensorflow and Keras.
+
